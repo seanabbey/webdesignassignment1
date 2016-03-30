@@ -1,0 +1,39 @@
+body {
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	text-align: center;
+}
+p {
+	margin-left: 50px;
+	margin-right: 50px;
+}
+h2 {
+	margin-left: 256px;
+	margin-right: 256px;
+}
+p {
+	margin-left: 256px;
+	margin-right: 256px;
+}
+h3 {
+	margin-left: 256px;
+	margin-right: 256px;
+}
+p {
+	margin-left: 256px;
+	margin-right: 256px;
+}
+ul {
+	margin-left: 256px;
+	margin-right: 256px;
+}
+
+
+
+
+
+
+h1 {
+	color: #399EBC;
+}

@@ -1,0 +1,11 @@
+@charset "utf-8";
+#navigation {
+	font-family: Arial;
+	font-size: medium;
+	color: #000000;
+	background-color: #399EBC;
+	height: 20px;
+	border: medium solid #164DA2;
+	overflow-x: hidden;
+	overflow-y: hidden;
+	}
