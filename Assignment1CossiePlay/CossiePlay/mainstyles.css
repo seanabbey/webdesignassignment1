@@ -37,3 +37,16 @@ ul {
 h1 {
 	color: #399EBC;
 }
+h4 {
+	margin-left: 256px;
+	margin-right: 256px;
+}
+p {
+	margin-left: 256px;
+	margin-right: 256px;
+}
+ul {
+	margin-left: 256px;
+	margin-right: 256px;
+	text-align: center;
+}
