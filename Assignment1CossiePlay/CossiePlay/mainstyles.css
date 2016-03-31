@@ -73,4 +73,6 @@ table {
 }
 .float-right {
 	float:left;
+}table {
+	border: medium solid #2360E8;
 }
