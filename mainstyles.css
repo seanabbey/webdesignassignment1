@@ -1,0 +1,80 @@
+body {
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	min-width: 1150px;
+}
+p {
+	margin-left: 50px;
+	margin-right: 50px;
+}
+h2 {
+	margin-left: 256px;
+	margin-right: 256px;
+}
+p {
+	margin-left: 256px;
+	margin-right: 256px;
+}
+h3 {
+	margin-left: 256px;
+	margin-right: 256px;
+}
+p {
+	margin-left: 256px;
+	margin-right: 256px;
+}
+ul {
+	margin-left: 256px;
+	margin-right: 256px;
+}
+
+
+
+
+
+
+h1 {
+	color: #27A3FF;
+}
+h1 {
+	margin-left: 256px;
+	margin-right: 256px;
+}
+#navigation {
+	margin-left: 256px;
+	margin-right: 256px;
+}
+#footer {
+	margin-left: 256px;
+	margin-right: 256px;
+}
+
+
+
+h4 {
+	margin-left: 256px;
+	margin-right: 256px;
+}
+p {
+	margin-left: 256px;
+	margin-right: 256px;
+}
+ul {
+	margin-left: 256px;
+	margin-right: 256px;
+}
+p {
+	margin-left: 256px;
+	margin-right: 256px;
+}
+table {
+	margin-left: 256px;
+	margin-right: 256px;
+}
+.float-left {
+	float:left;
+}table {
+	border: medium solid #2360E8;
+	width: 460px;
+}
