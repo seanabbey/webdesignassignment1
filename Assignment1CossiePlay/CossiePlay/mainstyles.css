@@ -2,6 +2,7 @@ body {
 	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
 	font-style: normal;
 	font-weight: 400;
+	min-width: 1150px;
 }
 p {
 	margin-left: 50px;
@@ -71,6 +72,9 @@ table {
 	margin-left: 256px;
 	margin-right: 256px;
 }
-.float-right {
+.float-left {
 	float:left;
+}table {
+	border: medium solid #2360E8;
+	width: 460px;
 }
