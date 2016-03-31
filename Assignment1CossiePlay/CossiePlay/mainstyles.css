@@ -2,7 +2,6 @@ body {
 	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
 	font-style: normal;
 	font-weight: 400;
-	text-align: center;
 }
 p {
 	margin-left: 50px;
@@ -35,8 +34,23 @@ ul {
 
 
 h1 {
-	color: #399EBC;
+	color: #27A3FF;
 }
+h1 {
+	margin-left: 256px;
+	margin-right: 256px;
+}
+#navigation {
+	margin-left: 256px;
+	margin-right: 256px;
+}
+#footer {
+	margin-left: 256px;
+	margin-right: 256px;
+}
+
+
+
 h4 {
 	margin-left: 256px;
 	margin-right: 256px;
@@ -48,5 +62,12 @@ p {
 ul {
 	margin-left: 256px;
 	margin-right: 256px;
-	text-align: center;
+}
+p {
+	margin-left: 256px;
+	margin-right: 256px;
+}
+table {
+	margin-left: 256px;
+	margin-right: 256px;
 }
