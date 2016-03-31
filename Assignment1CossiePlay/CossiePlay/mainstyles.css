@@ -71,3 +71,6 @@ table {
 	margin-left: 256px;
 	margin-right: 256px;
 }
+.float-right {
+	float:left;
+}
